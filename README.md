@@ -1,10 +1,4 @@
-### Hi there 👋
-
-![8576343b018539d785b5224f2fba095f](https://github.com/tabelmortalitas/tabelmortalitas/assets/159913850/fc14038f-d9b7-4936-bd85-86330c21cc12)
-
-**tabelmortalitas/tabelmortalitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there! I'm Neysa 👋
 
 - 🔭 I’m currently student at Brawijaya University
 - 🌱 I’m currently learning actuarial science
@@ -14,3 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neysasls)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: nothing
+
+<p align="left">
+<a href="https://github.com/tabelmortalitas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
